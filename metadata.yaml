@@ -1,0 +1,37 @@
+_repo: The-Love-Letters-of-Dorothy-Osborne-to-Sir-William-Temple-1652-54_12544
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Osborne, Dorothy
+    alias: Temple, Dorothy, Lady
+    birthdate: 1627
+    deathdate: 1695
+    gutenberg_agent_id: '4674'
+    url: http://www.gutenberg.org/2009/agents/4674
+  editor:
+    agent_name: Parry, Edward Abbott, Sir
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '4416'
+    url: http://www.gutenberg.org/2009/agents/4416
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Abbott_Parry
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 17th century -- Sources'
+- !lcsh 'Temple, William, Sir, 1628-1699 -- Correspondence'
+- !lcsh 'Statesmen''s spouses -- Great Britain -- Correspondence'
+- !lcc 'DA'
+- !lcsh 'Osborne, Dorothy, 1627-1695 -- Correspondence'
+- !lcsh 'Women -- Great Britain -- History -- 17th century'
+- !lcsh 'Love-letters'
+- GITenberg
+title: The Love Letters of Dorothy Osborne to Sir William Temple, 1652-54
+url: http://www.gutenberg.org/ebooks/12544
